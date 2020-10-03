@@ -1,0 +1,182 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "iPhone",
+                    "zOrder": "0",
+                    "measuredW": "436",
+                    "measuredH": "867",
+                    "x": "643",
+                    "y": "16",
+                    "properties": {
+                        "model": "IPhoneX",
+                        "resizing": "stretch"
+                    }
+                },
+                {
+                    "ID": "1",
+                    "typeID": "Title",
+                    "zOrder": "1",
+                    "measuredW": "306",
+                    "measuredH": "64",
+                    "x": "708",
+                    "y": "107",
+                    "properties": {
+                        "text": "Space Tour",
+                        "size": "60"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "Image",
+                    "zOrder": "2",
+                    "w": "382",
+                    "h": "226",
+                    "measuredW": "876",
+                    "measuredH": "651",
+                    "x": "670",
+                    "y": "208",
+                    "properties": {
+                        "src": {
+                            "ID": "D876EE19-1424-425E-BB37-B17FA6A073A0"
+                        }
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "Label",
+                    "zOrder": "3",
+                    "measuredW": "95",
+                    "measuredH": "28",
+                    "x": "813",
+                    "y": "171",
+                    "properties": {
+                        "text": "Live Feed ",
+                        "size": "20"
+                    }
+                },
+                {
+                    "ID": "6",
+                    "typeID": "DataGrid",
+                    "zOrder": "4",
+                    "w": "356",
+                    "h": "278",
+                    "measuredW": "417",
+                    "measuredH": "262",
+                    "x": "683",
+                    "y": "551",
+                    "properties": {
+                        "text": "Planet, Rise, Set, Meredian, Comment\nMercury ,Fri 08:16 , Sat 19:07,Sat 13:42 ,difficult to see\nVenus ,Sun 03:14,Sun 16:10 , Sun 09:42,Good visibility\nEarth , Sat 18:49,Sun 07:18,Sun 01:04,Perfect visibility\nMars , Sat 13:39,Sat 23:58,Sat 18:48,Perfect visibility\nJupiter ,Sat 14:07,Sun 00:32,Sat 19:19,Perfect visibility\nSaturn ,Sat 14:07,Sun 00:32,Sat 19:19,Perfect visibility\nUranus , Sat 19:25,Sun 08:32,Sun 01:59,Average visibility\nNeptune ,Sat 17:01, Sun 04:40,Sat 22:50,Difficult to see\n{65L, 60, 60, 0C}",
+                        "size": "14"
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "Label",
+                    "zOrder": "5",
+                    "measuredW": "30",
+                    "measuredH": "25",
+                    "x": "683",
+                    "y": "457",
+                    "properties": {
+                        "text": "Day",
+                        "size": "17"
+                    }
+                },
+                {
+                    "ID": "10",
+                    "typeID": "Label",
+                    "zOrder": "6",
+                    "measuredW": "49",
+                    "measuredH": "25",
+                    "x": "778",
+                    "y": "457",
+                    "properties": {
+                        "text": "Month",
+                        "size": "17"
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "Label",
+                    "zOrder": "7",
+                    "measuredW": "35",
+                    "measuredH": "25",
+                    "x": "924",
+                    "y": "457",
+                    "properties": {
+                        "text": "Year",
+                        "size": "17"
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "NumericStepper",
+                    "zOrder": "8",
+                    "measuredW": "50",
+                    "measuredH": "25",
+                    "x": "721",
+                    "y": "457",
+                    "properties": {
+                        "text": "03",
+                        "size": "14"
+                    }
+                },
+                {
+                    "ID": "13",
+                    "typeID": "NumericStepper",
+                    "zOrder": "9",
+                    "measuredW": "85",
+                    "measuredH": "25",
+                    "x": "833",
+                    "y": "457",
+                    "properties": {
+                        "text": "October",
+                        "size": "14"
+                    }
+                },
+                {
+                    "ID": "14",
+                    "typeID": "NumericStepper",
+                    "zOrder": "10",
+                    "measuredW": "66",
+                    "measuredH": "25",
+                    "x": "966",
+                    "y": "457",
+                    "properties": {
+                        "text": "2020",
+                        "size": "14"
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "Button",
+                    "zOrder": "11",
+                    "w": "356",
+                    "h": "44",
+                    "measuredW": "56",
+                    "measuredH": "32",
+                    "x": "683",
+                    "y": "498",
+                    "properties": {
+                        "text": "Go",
+                        "size": "24"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "Space Tour",
+            "order": 938458.7055419607,
+            "parentID": null
+        },
+        "resourceID": "EBFFE8B0-5E76-48E5-9A8F-4A367D248489",
+        "mockupH": "867",
+        "mockupW": "436",
+        "measuredW": "1079",
+        "measuredH": "883",
+        "version": "1.0"
+    }
+}
