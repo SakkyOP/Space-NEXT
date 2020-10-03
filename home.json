@@ -1,0 +1,238 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "3",
+                    "typeID": "iPhone",
+                    "zOrder": "0",
+                    "measuredW": "436",
+                    "measuredH": "867",
+                    "x": "632",
+                    "y": "260",
+                    "properties": {
+                        "resizing": "stretch",
+                        "model": "IPhoneX"
+                    }
+                },
+                {
+                    "ID": "6",
+                    "typeID": "Icon",
+                    "zOrder": "1",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "684",
+                    "y": "405",
+                    "properties": {
+                        "icon": {
+                            "ID": "facebook-official",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "7",
+                    "typeID": "Icon",
+                    "zOrder": "2",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "781",
+                    "y": "405",
+                    "properties": {
+                        "icon": {
+                            "ID": "google",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "Icon",
+                    "zOrder": "3",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "874",
+                    "y": "405",
+                    "properties": {
+                        "icon": {
+                            "ID": "youtube-play",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "9",
+                    "typeID": "Icon",
+                    "zOrder": "4",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "965",
+                    "y": "405",
+                    "properties": {
+                        "icon": {
+                            "ID": "youtube",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "10",
+                    "typeID": "Icon",
+                    "zOrder": "5",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "682",
+                    "y": "487",
+                    "properties": {
+                        "icon": {
+                            "ID": "instagram",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "Icon",
+                    "zOrder": "6",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "781",
+                    "y": "487",
+                    "properties": {
+                        "icon": {
+                            "ID": "snapchat-square",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "Icon",
+                    "zOrder": "7",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "874",
+                    "y": "487",
+                    "properties": {
+                        "icon": {
+                            "ID": "adn",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "13",
+                    "typeID": "Icon",
+                    "zOrder": "8",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "965",
+                    "y": "487",
+                    "properties": {
+                        "icon": {
+                            "ID": "envelope-o",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "20",
+                    "typeID": "Icon",
+                    "zOrder": "9",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "682",
+                    "y": "659",
+                    "properties": {
+                        "icon": {
+                            "ID": "whatsapp",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "21",
+                    "typeID": "Icon",
+                    "zOrder": "10",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "682",
+                    "y": "573",
+                    "properties": {
+                        "icon": {
+                            "ID": "video-camera",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "22",
+                    "typeID": "Icon",
+                    "zOrder": "11",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "874",
+                    "y": "573",
+                    "properties": {
+                        "icon": {
+                            "ID": "amazon",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "Icon",
+                    "zOrder": "12",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "965",
+                    "y": "573",
+                    "properties": {
+                        "icon": {
+                            "ID": "phone-square",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "24",
+                    "typeID": "Icon",
+                    "zOrder": "13",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "781",
+                    "y": "573",
+                    "properties": {
+                        "icon": {
+                            "ID": "camera",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "Icon",
+                    "zOrder": "14",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "781",
+                    "y": "659"
+                }
+            ]
+        },
+        "attributes": {
+            "name": "Homescreen",
+            "order": 938428.5264654435,
+            "parentID": null
+        },
+        "resourceID": "2278E287-509B-183B-1098-2EC38DDDB7D8",
+        "mockupH": "867",
+        "mockupW": "436",
+        "measuredW": "1068",
+        "measuredH": "1127",
+        "version": "1.0"
+    }
+}
+
+
