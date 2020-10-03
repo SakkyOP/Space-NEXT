@@ -1,0 +1,111 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "iPhone",
+                    "zOrder": "0",
+                    "measuredW": "436",
+                    "measuredH": "867",
+                    "x": "668",
+                    "y": "38",
+                    "properties": {
+                        "model": "IPhoneX",
+                        "resizing": "stretch"
+                    }
+                },
+                {
+                    "ID": "1",
+                    "typeID": "Button",
+                    "zOrder": "1",
+                    "w": "307",
+                    "h": "54",
+                    "measuredW": "153",
+                    "measuredH": "32",
+                    "x": "732",
+                    "y": "639",
+                    "properties": {
+                        "text": "Space Tour ",
+                        "size": "24"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "Button",
+                    "zOrder": "2",
+                    "w": "307",
+                    "h": "54",
+                    "measuredW": "240",
+                    "measuredH": "32",
+                    "x": "732",
+                    "y": "709",
+                    "properties": {
+                        "text": "From Your Backyard",
+                        "size": "24"
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "Title",
+                    "zOrder": "3",
+                    "measuredW": "328",
+                    "measuredH": "64",
+                    "x": "722",
+                    "y": "182",
+                    "properties": {
+                        "text": "SpaceNEXT",
+                        "size": "60"
+                    }
+                },
+                {
+                    "ID": "5",
+                    "typeID": "Paragraph",
+                    "zOrder": "4",
+                    "h": "115",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "748",
+                    "y": "253",
+                    "properties": {
+                        "align": "center",
+                        "text": "I don't think the human race will survive the next thousand years, unless we spread into space. There are too many accidents that can befall life on a single planet. But I'm an optimist. We will reach out to the stars.\n\nSTEPHEN HAWKING"
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "HRule",
+                    "zOrder": "5",
+                    "w": "366",
+                    "measuredW": "100",
+                    "measuredH": "10",
+                    "x": "703",
+                    "y": "802"
+                },
+                {
+                    "ID": "13",
+                    "typeID": "Link",
+                    "zOrder": "6",
+                    "measuredW": "71",
+                    "measuredH": "21",
+                    "x": "850",
+                    "y": "828",
+                    "properties": {
+                        "text": "Need Help?"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "Options",
+            "order": 938446.3343001759,
+            "parentID": null
+        },
+        "resourceID": "1DDD8F2C-7AB2-49D2-879C-C2D32A71D294",
+        "mockupH": "867",
+        "mockupW": "436",
+        "measuredW": "1104",
+        "measuredH": "905",
+        "version": "1.0"
+    }
+}
