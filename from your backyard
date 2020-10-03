@@ -1,0 +1,49 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "iPhone",
+                    "zOrder": "0",
+                    "measuredW": "867",
+                    "measuredH": "436",
+                    "x": "505",
+                    "y": "203",
+                    "properties": {
+                        "model": "IPhoneX",
+                        "resizing": "stretch",
+                        "orientation": "landscape"
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "Image",
+                    "zOrder": "1",
+                    "w": "754",
+                    "h": "386",
+                    "measuredW": "1920",
+                    "measuredH": "1080",
+                    "x": "562",
+                    "y": "228",
+                    "properties": {
+                        "src": {
+                            "ID": "92038F25-6C23-4549-9AAF-E2E12383E2A4"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "From your Backyard",
+            "order": 938467.0107342325,
+            "parentID": null
+        },
+        "resourceID": "F4786898-A2CC-44D5-BE9E-9D1D93A3EF94",
+        "mockupH": "436",
+        "mockupW": "867",
+        "measuredW": "1372",
+        "measuredH": "639",
+        "version": "1.0"
+    }
+}
