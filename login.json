@@ -1,0 +1,221 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "iPhone",
+                    "zOrder": "0",
+                    "measuredW": "436",
+                    "measuredH": "867",
+                    "x": "402",
+                    "y": "0",
+                    "properties": {
+                        "model": "IPhoneX",
+                        "resizing": "stretch"
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "__group__",
+                    "zOrder": "1",
+                    "measuredW": "332",
+                    "measuredH": "64",
+                    "w": "332",
+                    "h": "64",
+                    "x": "450",
+                    "y": "122",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "0",
+                                    "typeID": "Title",
+                                    "zOrder": "0",
+                                    "w": "332",
+                                    "measuredW": "328",
+                                    "measuredH": "64",
+                                    "x": "0",
+                                    "y": "0",
+                                    "properties": {
+                                        "text": "SpaceNEXT",
+                                        "align": "center",
+                                        "size": "60"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ID": "9",
+                    "typeID": "TextInput",
+                    "zOrder": "2",
+                    "w": "348",
+                    "measuredW": "124",
+                    "measuredH": "38",
+                    "x": "442",
+                    "y": "222",
+                    "properties": {
+                        "text": "username",
+                        "size": "24"
+                    }
+                },
+                {
+                    "ID": "10",
+                    "typeID": "TextInput",
+                    "zOrder": "3",
+                    "w": "348",
+                    "measuredW": "117",
+                    "measuredH": "38",
+                    "x": "442",
+                    "y": "270",
+                    "properties": {
+                        "text": "password",
+                        "size": "24"
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "Button",
+                    "zOrder": "4",
+                    "w": "348",
+                    "h": "60",
+                    "measuredW": "104",
+                    "measuredH": "36",
+                    "x": "442",
+                    "y": "337",
+                    "properties": {
+                        "text": "Log In",
+                        "size": "28"
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "__group__",
+                    "zOrder": "5",
+                    "measuredW": "133",
+                    "measuredH": "21",
+                    "w": "133",
+                    "h": "21",
+                    "x": "554",
+                    "y": "423",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "0",
+                                    "typeID": "Link",
+                                    "zOrder": "0",
+                                    "measuredW": "133",
+                                    "measuredH": "21",
+                                    "x": "0",
+                                    "y": "0",
+                                    "properties": {
+                                        "text": "Forgot Your Password?"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ID": "16",
+                    "typeID": "Label",
+                    "zOrder": "6",
+                    "measuredW": "27",
+                    "measuredH": "26",
+                    "x": "607",
+                    "y": "460",
+                    "properties": {
+                        "text": "OR",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "IconLabel",
+                    "zOrder": "7",
+                    "measuredW": "173",
+                    "measuredH": "24",
+                    "x": "534",
+                    "y": "502",
+                    "properties": {
+                        "text": "Login with Google",
+                        "icon": {
+                            "ID": "google",
+                            "size": "small"
+                        },
+                        "labelPosition": "right",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "18",
+                    "typeID": "IconLabel",
+                    "zOrder": "8",
+                    "measuredW": "194",
+                    "measuredH": "24",
+                    "x": "524",
+                    "y": "542",
+                    "properties": {
+                        "text": "Login with Facebook",
+                        "icon": {
+                            "ID": "facebook-square",
+                            "size": "small"
+                        },
+                        "labelPosition": "right",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "19",
+                    "typeID": "HRule",
+                    "zOrder": "9",
+                    "w": "364",
+                    "measuredW": "100",
+                    "measuredH": "10",
+                    "x": "439",
+                    "y": "767"
+                },
+                {
+                    "ID": "20",
+                    "typeID": "Label",
+                    "zOrder": "10",
+                    "measuredW": "171",
+                    "measuredH": "24",
+                    "x": "479",
+                    "y": "787",
+                    "properties": {
+                        "text": "Don't have an Account?",
+                        "size": "16"
+                    }
+                },
+                {
+                    "ID": "21",
+                    "typeID": "Link",
+                    "zOrder": "11",
+                    "measuredW": "57",
+                    "measuredH": "24",
+                    "x": "661",
+                    "y": "787",
+                    "properties": {
+                        "text": "Sign Up",
+                        "size": "16"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "Log In page",
+            "order": 938437.9568658776,
+            "parentID": null
+        },
+        "resourceID": "E7E249DD-7EFC-4A88-93CF-8D6882CE60C4",
+        "mockupH": "867",
+        "mockupW": "436",
+        "measuredW": "838",
+        "measuredH": "867",
+        "version": "1.0"
+    }
+}
